@@ -1,4 +1,4 @@
-To Run single kafka and single zookeeper
+To Run single kafka and single zookeeper 
 
 # Requirements
 
